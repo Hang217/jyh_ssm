@@ -1,0 +1,7 @@
+com\jyh\ssm\controller\SysLogController.class
+com\jyh\ssm\controller\RoleController.class
+com\jyh\ssm\controller\ProductController.class
+com\jyh\ssm\controller\UserController.class
+com\jyh\ssm\controller\PermissionController.class
+com\jyh\ssm\controller\LogAop.class
+com\jyh\ssm\controller\OrdersController.class
